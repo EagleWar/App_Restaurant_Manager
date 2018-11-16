@@ -1,0 +1,12 @@
+Margherita 11
+Veggie 11
+Meat 12
+Best 13
+Chicken 12
+Cheese 8
+Tiramisu 6
+Ice_Cream 5
+Apple_Pie 5
+Coca 4
+Fanta 3
+Ice_Tea 3
